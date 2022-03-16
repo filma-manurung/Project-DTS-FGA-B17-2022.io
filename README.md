@@ -6,4 +6,4 @@ This project is created by Team B17
 4. Kristiane Purba
 5. Mohammad Aditya Noviansyah
 
-----------------------------------------------------------Thank You For Your Contribution Team B17-------------------------------------------------
+--------------------------------Thank You For Your Contribution Team B17---------------------------------
